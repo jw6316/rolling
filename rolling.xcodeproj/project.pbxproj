@@ -14,6 +14,16 @@
 		7DF952851C11A11C000C9D82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952831C11A11C000C9D82 /* LaunchScreen.storyboard */; };
 		7DF952901C11A11C000C9D82 /* rollingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF9528F1C11A11C000C9D82 /* rollingTests.swift */; };
 		7DF9529B1C11A11C000C9D82 /* rollingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF9529A1C11A11C000C9D82 /* rollingUITests.swift */; };
+		7DF952B11C11A2BC000C9D82 /* blueGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952A81C11A2BC000C9D82 /* blueGumball.png */; };
+		7DF952B21C11A2BC000C9D82 /* Ford-Gum-12-Inch-Junior--pTRU1-9205192dt.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952A91C11A2BC000C9D82 /* Ford-Gum-12-Inch-Junior--pTRU1-9205192dt.png */; };
+		7DF952B31C11A2BC000C9D82 /* greenGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952AA1C11A2BC000C9D82 /* greenGumball.png */; };
+		7DF952B41C11A2BC000C9D82 /* lightBlueGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952AB1C11A2BC000C9D82 /* lightBlueGumball.png */; };
+		7DF952B51C11A2BC000C9D82 /* pinkGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952AC1C11A2BC000C9D82 /* pinkGumball.png */; };
+		7DF952B61C11A2BC000C9D82 /* purpleGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952AD1C11A2BC000C9D82 /* purpleGumball.png */; };
+		7DF952B71C11A2BC000C9D82 /* redGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952AE1C11A2BC000C9D82 /* redGumball.png */; };
+		7DF952B81C11A2BC000C9D82 /* whiteGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952AF1C11A2BC000C9D82 /* whiteGumball.png */; };
+		7DF952B91C11A2BC000C9D82 /* yellowGumball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DF952B01C11A2BC000C9D82 /* yellowGumball.png */; };
+		7DF952BB1C11AB0C000C9D82 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF952BA1C11AB0C000C9D82 /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		7DF952961C11A11C000C9D82 /* rollingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rollingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DF9529A1C11A11C000C9D82 /* rollingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rollingUITests.swift; sourceTree = "<group>"; };
 		7DF9529C1C11A11C000C9D82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DF952A81C11A2BC000C9D82 /* blueGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueGumball.png; sourceTree = "<group>"; };
+		7DF952A91C11A2BC000C9D82 /* Ford-Gum-12-Inch-Junior--pTRU1-9205192dt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ford-Gum-12-Inch-Junior--pTRU1-9205192dt.png"; sourceTree = "<group>"; };
+		7DF952AA1C11A2BC000C9D82 /* greenGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenGumball.png; sourceTree = "<group>"; };
+		7DF952AB1C11A2BC000C9D82 /* lightBlueGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lightBlueGumball.png; sourceTree = "<group>"; };
+		7DF952AC1C11A2BC000C9D82 /* pinkGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pinkGumball.png; sourceTree = "<group>"; };
+		7DF952AD1C11A2BC000C9D82 /* purpleGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = purpleGumball.png; sourceTree = "<group>"; };
+		7DF952AE1C11A2BC000C9D82 /* redGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redGumball.png; sourceTree = "<group>"; };
+		7DF952AF1C11A2BC000C9D82 /* whiteGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whiteGumball.png; sourceTree = "<group>"; };
+		7DF952B01C11A2BC000C9D82 /* yellowGumball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellowGumball.png; sourceTree = "<group>"; };
+		7DF952BA1C11AB0C000C9D82 /* secondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = secondViewController.swift; path = ../secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +101,15 @@
 				7DF9528E1C11A11C000C9D82 /* rollingTests */,
 				7DF952991C11A11C000C9D82 /* rollingUITests */,
 				7DF952781C11A11C000C9D82 /* Products */,
+				7DF952A81C11A2BC000C9D82 /* blueGumball.png */,
+				7DF952A91C11A2BC000C9D82 /* Ford-Gum-12-Inch-Junior--pTRU1-9205192dt.png */,
+				7DF952AA1C11A2BC000C9D82 /* greenGumball.png */,
+				7DF952AB1C11A2BC000C9D82 /* lightBlueGumball.png */,
+				7DF952AC1C11A2BC000C9D82 /* pinkGumball.png */,
+				7DF952AD1C11A2BC000C9D82 /* purpleGumball.png */,
+				7DF952AE1C11A2BC000C9D82 /* redGumball.png */,
+				7DF952AF1C11A2BC000C9D82 /* whiteGumball.png */,
+				7DF952B01C11A2BC000C9D82 /* yellowGumball.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -98,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				7DF9527A1C11A11C000C9D82 /* AppDelegate.swift */,
+				7DF952BA1C11AB0C000C9D82 /* secondViewController.swift */,
 				7DF9527C1C11A11C000C9D82 /* ViewController.swift */,
 				7DF9527E1C11A11C000C9D82 /* Main.storyboard */,
 				7DF952811C11A11C000C9D82 /* Assets.xcassets */,
@@ -232,9 +262,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DF952B91C11A2BC000C9D82 /* yellowGumball.png in Resources */,
+				7DF952B81C11A2BC000C9D82 /* whiteGumball.png in Resources */,
+				7DF952B51C11A2BC000C9D82 /* pinkGumball.png in Resources */,
 				7DF952851C11A11C000C9D82 /* LaunchScreen.storyboard in Resources */,
 				7DF952821C11A11C000C9D82 /* Assets.xcassets in Resources */,
+				7DF952B61C11A2BC000C9D82 /* purpleGumball.png in Resources */,
+				7DF952B31C11A2BC000C9D82 /* greenGumball.png in Resources */,
+				7DF952B41C11A2BC000C9D82 /* lightBlueGumball.png in Resources */,
+				7DF952B71C11A2BC000C9D82 /* redGumball.png in Resources */,
+				7DF952B11C11A2BC000C9D82 /* blueGumball.png in Resources */,
 				7DF952801C11A11C000C9D82 /* Main.storyboard in Resources */,
+				7DF952B21C11A2BC000C9D82 /* Ford-Gum-12-Inch-Junior--pTRU1-9205192dt.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +299,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DF9527D1C11A11C000C9D82 /* ViewController.swift in Sources */,
+				7DF952BB1C11AB0C000C9D82 /* secondViewController.swift in Sources */,
 				7DF9527B1C11A11C000C9D82 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -485,6 +525,7 @@
 				7DF952A11C11A11C000C9D82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7DF952A21C11A11C000C9D82 /* Build configuration list for PBXNativeTarget "rollingTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +534,7 @@
 				7DF952A41C11A11C000C9D82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7DF952A51C11A11C000C9D82 /* Build configuration list for PBXNativeTarget "rollingUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +543,7 @@
 				7DF952A71C11A11C000C9D82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
